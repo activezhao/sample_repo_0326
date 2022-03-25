@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package sample_module_0326.sample_package_0326;
 
-option go_package="github.com/aaa/bbb/sample_module_0326/sample_package_0326/grpc-go/stubs";
+option java_package="com.skemaloop.test";
 
 
 service Zhaoh0326 {
